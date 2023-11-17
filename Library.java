@@ -8,7 +8,7 @@ public class Library {
         System.out.println("title:Hope");
         System.out.println("yearofpublishing:2006");
         System.out.println("author:Isaac");
-        System.out.println("ISBN:2200");
-        
+        System.out.println("LC call no:2200");
+        System.out.println("Campus:KCA university");
     }
 }
